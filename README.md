@@ -1,4 +1,4 @@
-Consumer Complaint Analysis
+**Consumer Complaint Analysis****:**
 This project analyzes U.S. consumer complaint data to identify patterns in complaint volume, company performance, product issues, response timelines, and customer dissatisfaction. The analysis is performed entirely in Microsoft Excel using formulas, pivot tables, charts, and structured reporting.
 
 📊 Project Overview
