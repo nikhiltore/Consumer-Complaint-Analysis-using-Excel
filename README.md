@@ -1,7 +1,7 @@
 **Consumer Complaint Analysis****:**
 This project analyzes U.S. consumer complaint data to identify patterns in complaint volume, company performance, product issues, response timelines, and customer dissatisfaction. The analysis is performed entirely in Microsoft Excel using formulas, pivot tables, charts, and structured reporting.
 
-📊 Project Overview
+📊** Project Overview:**
 The dataset contains records of consumer complaints filed against various companies across the United States. Each record includes:
 •	Complaint ID
 •	Company Name
@@ -16,7 +16,7 @@ The dataset contains records of consumer complaints filed against various compan
 •	Year & Quarter
 The goal is to derive meaningful insights that can help evaluate company performance and understand consumer pain points.
 
-🎯 Objectives
+🎯 **Objectives:**
 1.	Measure complaint volume by product, company, and state.
 2.	Evaluate timely response performance across companies.
 3.	Analyze average resolution times and identify delays.
@@ -24,7 +24,7 @@ The goal is to derive meaningful insights that can help evaluate company perform
 5.	Identify quarterly and yearly complaint trends.
 6.	Create pivot-based reports and visual dashboards.
 
-🧩 Tasks Completed
+🧩 **Tasks Completed:**
 🔹 Task 1: Complaint Volume Analysis
 •	Total complaints by product, state, and company
 •	Identification of top complaint categories
@@ -46,7 +46,7 @@ The goal is to derive meaningful insights that can help evaluate company perform
 •	Seasonal spikes in complaint volume
 •	Visual summary in Report_Task5
 
-📘 Excel Techniques Used
+📘 **Excel Techniques Used:**
 •	Data Cleaning
 o	Duplicate removal, date formatting, mapping state codes
 •	Formulas
@@ -60,14 +60,13 @@ o	VLOOKUP / XLOOKUP
 •	Dashboarding
 o	Visual summaries of performance metrics
 
-📈 Key Insights (Sample Highlights)
-(You can update this with final numbers once you publish the repo)
+📈 **Key Insights:**
 •	Mortgage and credit reporting categories have the highest complaint volume.
 •	Some companies show delayed responses and higher dispute rates.
 •	Complaint volume varies significantly by state.
 •	Certain quarters consistently see spikes in complaints.
 
-🛠 Tools Used
+🛠 **Tools Used:**
 •	Microsoft Excel
 •	Pivot Tables & Charts
 •	Excel Data Models
